@@ -7,4 +7,6 @@ This repository explores Windows APIs using C, utilizing standard DLLs to intera
 - Interaction with standard Windows DLLs
 - Support for 32-bit and 64-bit systems
 
+### References:
+1. [Module C - Intro to Win32 and C programming 1](https://www.tenouk.com/ModuleC.html)
 
