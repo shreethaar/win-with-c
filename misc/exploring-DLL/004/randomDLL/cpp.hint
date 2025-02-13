@@ -1,0 +1,2 @@
+#define RANDOMDLL_API __declspec(dllexport)
+#define RANDOMDLL_API __declspec(dllimport)

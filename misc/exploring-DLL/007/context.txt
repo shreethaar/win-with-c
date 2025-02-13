@@ -1,0 +1,12 @@
+Create DLL to implement a function to do:
+1. Process string input
+2. Give option to convert to base64 or hex 
+3. Return string
+
+Client side:
+1. Print welcome message 
+2. Import DLL to implement function
+3. Loop process until ctrl-c is entered
+
+
+

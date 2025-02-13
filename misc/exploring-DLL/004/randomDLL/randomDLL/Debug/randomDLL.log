@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+  randomDLL.cpp
+  Generating Code...
+     Creating library C:\Users\trevorphilips\Desktop\RE-DLL\004\randomDLL\Debug\randomDLL.lib and object C:\Users\trevorphilips\Desktop\RE-DLL\004\randomDLL\Debug\randomDLL.exp
+  randomDLL.vcxproj -> C:\Users\trevorphilips\Desktop\RE-DLL\004\randomDLL\Debug\randomDLL.dll

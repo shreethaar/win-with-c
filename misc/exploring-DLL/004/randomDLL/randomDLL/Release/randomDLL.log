@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  dllmain.cpp
+  randomDLL.cpp
+     Creating library C:\Users\trevorphilips\Desktop\RE-DLL\004\randomDLL\Release\randomDLL.lib and object C:\Users\trevorphilips\Desktop\RE-DLL\004\randomDLL\Release\randomDLL.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  randomDLL.vcxproj -> C:\Users\trevorphilips\Desktop\RE-DLL\004\randomDLL\Release\randomDLL.dll

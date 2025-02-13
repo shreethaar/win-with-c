@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+  MathLibrary.cpp
+  Generating Code...
+     Creating library C:\Users\trevorphilips\Desktop\RE-DLL\005\MathLibrary\x64\Debug\MathLibrary.lib and object C:\Users\trevorphilips\Desktop\RE-DLL\005\MathLibrary\x64\Debug\MathLibrary.exp
+  MathLibrary.vcxproj -> C:\Users\trevorphilips\Desktop\RE-DLL\005\MathLibrary\x64\Debug\MathLibrary.dll
