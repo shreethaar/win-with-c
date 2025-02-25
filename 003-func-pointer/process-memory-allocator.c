@@ -8,6 +8,8 @@
  * Hints: 
  * - Use VirtualAlloc with MEM_COMMIT | MEM_RESERVE and PAGE_READWRITE
  * - For freeing, use MEM_RELEASE
+ * 
+ * Compile: i686-w64-mingw32-gcc -o ex1.exe ex1.c -lkernel32
  */
 
 #include <windows.h>
